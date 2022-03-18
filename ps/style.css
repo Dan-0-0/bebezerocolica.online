@@ -43,10 +43,10 @@ body {
 .btn {
 	border-radius: 10px;
 	padding: 5px 10px;
-	font-size: 30px;
-	background-color: #f7ce6a;
+	font-size: 37px;
+	background-color: yellow;
 	outline: none;
-	color: black;
+	color: blue;
 	text-decoration: none;
 }
 
